@@ -1,0 +1,119 @@
+﻿body {
+    margin: 0;
+    font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+    background: linear-gradient(135deg, #0a192f 0%, #1d2a45 50%, #0a192f 100%);
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 40px 20px;
+    color: #cfd8dc;
+}
+
+/* Main container with glass effect */
+.teams-form-wrapper {
+    background: rgba(255, 255, 255, 0.1);
+    backdrop-filter: blur(15px);
+    -webkit-backdrop-filter: blur(15px);
+    border-radius: 20px;
+    box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37);
+    max-width: 640px;
+    width: 100%;
+    padding: 40px 50px;
+    animation: fadeIn 0.6s ease-in-out forwards;
+    border: 1px solid rgba(255, 255, 255, 0.18);
+}
+
+/* Heading with glow and icon */
+.form-title {
+    font-size: 28px;
+    font-weight: 700;
+    color: #61dafb;
+    text-align: center;
+    margin-bottom: 35px;
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 12px;
+}
+
+    /* Icon styling inside heading */
+    .form-title .bi-send-fill {
+        font-size: 34px;
+        transform: rotate(-15deg);
+        filter: drop-shadow(0 0 5px #61dafb);
+    }
+
+/* Label styling */
+.form-label {
+    font-weight: 600;
+    color: #a0aec0;
+}
+
+/* Inputs with subtle transparent background */
+.form-control {
+    border-radius: 12px;
+    border: 1px solid #3a5068;
+    background: rgba(255, 255, 255, 0.07);
+    color: #e0e6f0;
+    transition: box-shadow 0.25s, border-color 0.25s;
+}
+
+    .form-control::placeholder {
+        color: #7a8ca4;
+        opacity: 1;
+    }
+
+    .form-control:focus {
+        background: rgba(255, 255, 255, 0.15);
+        box-shadow: 0 0 8px 3px #61dafb;
+        border-color: #61dafb;
+        color: #ffffff;
+        outline: none;
+    }
+
+/* Submit button with glowing effect */
+.btn-teams {
+    background: #61dafb;
+    color: #0a192f;
+    font-size: 18px;
+    font-weight: 700;
+    border-radius: 14px;
+    padding: 14px;
+    box-shadow: 0 0 15px #61dafb;
+    transition: background 0.3s ease, box-shadow 0.3s ease;
+    border: none;
+}
+
+    .btn-teams:hover {
+        background: #39c5f6;
+        box-shadow: 0 0 25px #39c5f6;
+        color: #e0f7ff;
+    }
+
+/* Toast styling (optional, green success) */
+.toast-container {
+    position: fixed;
+    top: 20px;
+    right: 20px;
+    z-index: 1050;
+}
+
+.toast {
+    background-color: #28a745;
+    color: white;
+}
+
+/* Animation for fadeIn */
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+        transform: translateY(20px);
+    }
+
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}

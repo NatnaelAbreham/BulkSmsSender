@@ -1,0 +1,180 @@
+C:\Users\Dell 3000\Desktop\c#\SMSsender\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Dell 3000\Desktop\c#\SMSsender\bin\Debug\net8.0\appsettings.json
+C:\Users\Dell 3000\Desktop\c#\SMSsender\bin\Debug\net8.0\global.json
+C:\Users\Dell 3000\Desktop\c#\SMSsender\bin\Debug\net8.0\SMSsender.staticwebassets.runtime.json
+C:\Users\Dell 3000\Desktop\c#\SMSsender\bin\Debug\net8.0\SMSsender.exe
+C:\Users\Dell 3000\Desktop\c#\SMSsender\bin\Debug\net8.0\SMSsender.deps.json
+C:\Users\Dell 3000\Desktop\c#\SMSsender\bin\Debug\net8.0\SMSsender.runtimeconfig.json
+C:\Users\Dell 3000\Desktop\c#\SMSsender\bin\Debug\net8.0\SMSsender.dll
+C:\Users\Dell 3000\Desktop\c#\SMSsender\bin\Debug\net8.0\SMSsender.pdb
+C:\Users\Dell 3000\Desktop\c#\SMSsender\bin\Debug\net8.0\ExcelDataReader.dll
+C:\Users\Dell 3000\Desktop\c#\SMSsender\obj\Debug\net8.0\SMSsender.csproj.AssemblyReference.cache
+C:\Users\Dell 3000\Desktop\c#\SMSsender\obj\Debug\net8.0\SMSsender.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell 3000\Desktop\c#\SMSsender\obj\Debug\net8.0\SMSsender.AssemblyInfoInputs.cache
+C:\Users\Dell 3000\Desktop\c#\SMSsender\obj\Debug\net8.0\SMSsender.AssemblyInfo.cs
+C:\Users\Dell 3000\Desktop\c#\SMSsender\obj\Debug\net8.0\SMSsender.csproj.CoreCompileInputs.cache
+C:\Users\Dell 3000\Desktop\c#\SMSsender\obj\Debug\net8.0\SMSsender.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Dell 3000\Desktop\c#\SMSsender\obj\Debug\net8.0\SMSsender.RazorAssemblyInfo.cache
+C:\Users\Dell 3000\Desktop\c#\SMSsender\obj\Debug\net8.0\SMSsender.RazorAssemblyInfo.cs
+C:\Users\Dell 3000\Desktop\c#\SMSsender\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Dell 3000\Desktop\c#\SMSsender\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Dell 3000\Desktop\c#\SMSsender\obj\Debug\net8.0\staticwebassets\msbuild.SMSsender.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Dell 3000\Desktop\c#\SMSsender\obj\Debug\net8.0\staticwebassets\msbuild.build.SMSsender.props
+C:\Users\Dell 3000\Desktop\c#\SMSsender\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.SMSsender.props
+C:\Users\Dell 3000\Desktop\c#\SMSsender\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.SMSsender.props
+C:\Users\Dell 3000\Desktop\c#\SMSsender\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Dell 3000\Desktop\c#\SMSsender\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Dell 3000\Desktop\c#\SMSsender\obj\Debug\net8.0\scopedcss\bundle\SMSsender.styles.css
+C:\Users\Dell 3000\Desktop\c#\SMSsender\obj\Debug\net8.0\scopedcss\projectbundle\SMSsender.bundle.scp.css
+C:\Users\Dell 3000\Desktop\c#\SMSsender\obj\Debug\net8.0\SMSsender.csproj.Up2Date
+C:\Users\Dell 3000\Desktop\c#\SMSsender\obj\Debug\net8.0\SMSsender.dll
+C:\Users\Dell 3000\Desktop\c#\SMSsender\obj\Debug\net8.0\refint\SMSsender.dll
+C:\Users\Dell 3000\Desktop\c#\SMSsender\obj\Debug\net8.0\SMSsender.pdb
+C:\Users\Dell 3000\Desktop\c#\SMSsender\obj\Debug\net8.0\SMSsender.genruntimeconfig.cache
+C:\Users\Dell 3000\Desktop\c#\SMSsender\obj\Debug\net8.0\ref\SMSsender.dll
+C:\Users\Dell 3000\Desktop\c#\SMSsender\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Dell 3000\Desktop\c#\SMSsender\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Dell 3000\Desktop\c#\SMSsender\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Dell 3000\Desktop\c#\SMSsender\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Dell 3000\Desktop\c#\SMSsender\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Dell 3000\Desktop\c#\SMSsender\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+C:\Users\Dell 3000\Desktop\c#\SMSsender\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Dell 3000\Desktop\c#\SMSsender\bin\Debug\net8.0\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\Dell 3000\Desktop\c#\SMSsender\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\Dell 3000\Desktop\c#\SMSsender\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Dell 3000\Desktop\c#\SMSsender\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\Dell 3000\Desktop\c#\SMSsender\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Dell 3000\Desktop\c#\SMSsender\bin\Debug\net8.0\Serilog.dll
+C:\Users\Dell 3000\Desktop\c#\SMSsender\bin\Debug\net8.0\Serilog.AspNetCore.dll
+C:\Users\Dell 3000\Desktop\c#\SMSsender\bin\Debug\net8.0\Serilog.Extensions.Hosting.dll
+C:\Users\Dell 3000\Desktop\c#\SMSsender\bin\Debug\net8.0\Serilog.Extensions.Logging.dll
+C:\Users\Dell 3000\Desktop\c#\SMSsender\bin\Debug\net8.0\Serilog.Formatting.Compact.dll
+C:\Users\Dell 3000\Desktop\c#\SMSsender\bin\Debug\net8.0\Serilog.Settings.Configuration.dll
+C:\Users\Dell 3000\Desktop\c#\SMSsender\bin\Debug\net8.0\Serilog.Sinks.Console.dll
+C:\Users\Dell 3000\Desktop\c#\SMSsender\bin\Debug\net8.0\Serilog.Sinks.Debug.dll
+C:\Users\Dell 3000\Desktop\c#\SMSsender\bin\Debug\net8.0\Serilog.Sinks.File.dll
+C:\Users\Dell 3000\Desktop\c#\SMSsender\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Dell 3000\Desktop\c#\SMSsender\bin\Debug\net8.0\System.IO.Pipelines.dll
+C:\Users\Dell 3000\Desktop\c#\SMSsender\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+C:\Users\Dell 3000\Desktop\c#\SMSsender\bin\Debug\net8.0\System.Text.Json.dll
+C:\Users\Dell 3000\Desktop\c#\SMSsender\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+E:\desktop2\c#\SMSsender\bin\Debug\net8.0\appsettings.Development.json
+E:\desktop2\c#\SMSsender\bin\Debug\net8.0\appsettings.json
+E:\desktop2\c#\SMSsender\bin\Debug\net8.0\global.json
+E:\desktop2\c#\SMSsender\bin\Debug\net8.0\SMSsender.staticwebassets.runtime.json
+E:\desktop2\c#\SMSsender\bin\Debug\net8.0\SMSsender.exe
+E:\desktop2\c#\SMSsender\bin\Debug\net8.0\SMSsender.deps.json
+E:\desktop2\c#\SMSsender\bin\Debug\net8.0\SMSsender.runtimeconfig.json
+E:\desktop2\c#\SMSsender\bin\Debug\net8.0\SMSsender.dll
+E:\desktop2\c#\SMSsender\bin\Debug\net8.0\SMSsender.pdb
+E:\desktop2\c#\SMSsender\bin\Debug\net8.0\ExcelDataReader.dll
+E:\desktop2\c#\SMSsender\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\desktop2\c#\SMSsender\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Binder.dll
+E:\desktop2\c#\SMSsender\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+E:\desktop2\c#\SMSsender\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\desktop2\c#\SMSsender\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+E:\desktop2\c#\SMSsender\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+E:\desktop2\c#\SMSsender\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+E:\desktop2\c#\SMSsender\bin\Debug\net8.0\Microsoft.Extensions.Hosting.Abstractions.dll
+E:\desktop2\c#\SMSsender\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+E:\desktop2\c#\SMSsender\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\desktop2\c#\SMSsender\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+E:\desktop2\c#\SMSsender\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+E:\desktop2\c#\SMSsender\bin\Debug\net8.0\Serilog.dll
+E:\desktop2\c#\SMSsender\bin\Debug\net8.0\Serilog.AspNetCore.dll
+E:\desktop2\c#\SMSsender\bin\Debug\net8.0\Serilog.Extensions.Hosting.dll
+E:\desktop2\c#\SMSsender\bin\Debug\net8.0\Serilog.Extensions.Logging.dll
+E:\desktop2\c#\SMSsender\bin\Debug\net8.0\Serilog.Formatting.Compact.dll
+E:\desktop2\c#\SMSsender\bin\Debug\net8.0\Serilog.Settings.Configuration.dll
+E:\desktop2\c#\SMSsender\bin\Debug\net8.0\Serilog.Sinks.Console.dll
+E:\desktop2\c#\SMSsender\bin\Debug\net8.0\Serilog.Sinks.Debug.dll
+E:\desktop2\c#\SMSsender\bin\Debug\net8.0\Serilog.Sinks.File.dll
+E:\desktop2\c#\SMSsender\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+E:\desktop2\c#\SMSsender\bin\Debug\net8.0\System.IO.Pipelines.dll
+E:\desktop2\c#\SMSsender\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+E:\desktop2\c#\SMSsender\bin\Debug\net8.0\System.Text.Json.dll
+E:\desktop2\c#\SMSsender\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+E:\desktop2\c#\SMSsender\obj\Debug\net8.0\SMSsender.csproj.AssemblyReference.cache
+E:\desktop2\c#\SMSsender\obj\Debug\net8.0\SMSsender.GeneratedMSBuildEditorConfig.editorconfig
+E:\desktop2\c#\SMSsender\obj\Debug\net8.0\SMSsender.AssemblyInfoInputs.cache
+E:\desktop2\c#\SMSsender\obj\Debug\net8.0\SMSsender.AssemblyInfo.cs
+E:\desktop2\c#\SMSsender\obj\Debug\net8.0\SMSsender.csproj.CoreCompileInputs.cache
+E:\desktop2\c#\SMSsender\obj\Debug\net8.0\SMSsender.MvcApplicationPartsAssemblyInfo.cache
+E:\desktop2\c#\SMSsender\obj\Debug\net8.0\SMSsender.RazorAssemblyInfo.cache
+E:\desktop2\c#\SMSsender\obj\Debug\net8.0\SMSsender.RazorAssemblyInfo.cs
+E:\desktop2\c#\SMSsender\obj\Debug\net8.0\staticwebassets.build.json
+E:\desktop2\c#\SMSsender\obj\Debug\net8.0\staticwebassets.development.json
+E:\desktop2\c#\SMSsender\obj\Debug\net8.0\staticwebassets\msbuild.SMSsender.Microsoft.AspNetCore.StaticWebAssets.props
+E:\desktop2\c#\SMSsender\obj\Debug\net8.0\staticwebassets\msbuild.build.SMSsender.props
+E:\desktop2\c#\SMSsender\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.SMSsender.props
+E:\desktop2\c#\SMSsender\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.SMSsender.props
+E:\desktop2\c#\SMSsender\obj\Debug\net8.0\staticwebassets.pack.json
+E:\desktop2\c#\SMSsender\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\desktop2\c#\SMSsender\obj\Debug\net8.0\scopedcss\bundle\SMSsender.styles.css
+E:\desktop2\c#\SMSsender\obj\Debug\net8.0\scopedcss\projectbundle\SMSsender.bundle.scp.css
+E:\desktop2\c#\SMSsender\obj\Debug\net8.0\SMSsender.csproj.Up2Date
+E:\desktop2\c#\SMSsender\obj\Debug\net8.0\SMSsender.dll
+E:\desktop2\c#\SMSsender\obj\Debug\net8.0\refint\SMSsender.dll
+E:\desktop2\c#\SMSsender\obj\Debug\net8.0\SMSsender.pdb
+E:\desktop2\c#\SMSsender\obj\Debug\net8.0\SMSsender.genruntimeconfig.cache
+E:\desktop2\c#\SMSsender\obj\Debug\net8.0\ref\SMSsender.dll
+E:\desktop2\dotnetproject\SMSsender\bin\Debug\net8.0\appsettings.Development.json
+E:\desktop2\dotnetproject\SMSsender\bin\Debug\net8.0\appsettings.json
+E:\desktop2\dotnetproject\SMSsender\bin\Debug\net8.0\global.json
+E:\desktop2\dotnetproject\SMSsender\bin\Debug\net8.0\SMSsender.staticwebassets.runtime.json
+E:\desktop2\dotnetproject\SMSsender\bin\Debug\net8.0\SMSsender.exe
+E:\desktop2\dotnetproject\SMSsender\bin\Debug\net8.0\SMSsender.deps.json
+E:\desktop2\dotnetproject\SMSsender\bin\Debug\net8.0\SMSsender.runtimeconfig.json
+E:\desktop2\dotnetproject\SMSsender\bin\Debug\net8.0\SMSsender.dll
+E:\desktop2\dotnetproject\SMSsender\bin\Debug\net8.0\SMSsender.pdb
+E:\desktop2\dotnetproject\SMSsender\bin\Debug\net8.0\ExcelDataReader.dll
+E:\desktop2\dotnetproject\SMSsender\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\desktop2\dotnetproject\SMSsender\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Binder.dll
+E:\desktop2\dotnetproject\SMSsender\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+E:\desktop2\dotnetproject\SMSsender\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\desktop2\dotnetproject\SMSsender\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+E:\desktop2\dotnetproject\SMSsender\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+E:\desktop2\dotnetproject\SMSsender\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+E:\desktop2\dotnetproject\SMSsender\bin\Debug\net8.0\Microsoft.Extensions.Hosting.Abstractions.dll
+E:\desktop2\dotnetproject\SMSsender\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+E:\desktop2\dotnetproject\SMSsender\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\desktop2\dotnetproject\SMSsender\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+E:\desktop2\dotnetproject\SMSsender\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+E:\desktop2\dotnetproject\SMSsender\bin\Debug\net8.0\Serilog.dll
+E:\desktop2\dotnetproject\SMSsender\bin\Debug\net8.0\Serilog.AspNetCore.dll
+E:\desktop2\dotnetproject\SMSsender\bin\Debug\net8.0\Serilog.Extensions.Hosting.dll
+E:\desktop2\dotnetproject\SMSsender\bin\Debug\net8.0\Serilog.Extensions.Logging.dll
+E:\desktop2\dotnetproject\SMSsender\bin\Debug\net8.0\Serilog.Formatting.Compact.dll
+E:\desktop2\dotnetproject\SMSsender\bin\Debug\net8.0\Serilog.Settings.Configuration.dll
+E:\desktop2\dotnetproject\SMSsender\bin\Debug\net8.0\Serilog.Sinks.Console.dll
+E:\desktop2\dotnetproject\SMSsender\bin\Debug\net8.0\Serilog.Sinks.Debug.dll
+E:\desktop2\dotnetproject\SMSsender\bin\Debug\net8.0\Serilog.Sinks.File.dll
+E:\desktop2\dotnetproject\SMSsender\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+E:\desktop2\dotnetproject\SMSsender\bin\Debug\net8.0\System.IO.Pipelines.dll
+E:\desktop2\dotnetproject\SMSsender\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+E:\desktop2\dotnetproject\SMSsender\bin\Debug\net8.0\System.Text.Json.dll
+E:\desktop2\dotnetproject\SMSsender\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+E:\desktop2\dotnetproject\SMSsender\obj\Debug\net8.0\SMSsender.csproj.AssemblyReference.cache
+E:\desktop2\dotnetproject\SMSsender\obj\Debug\net8.0\SMSsender.GeneratedMSBuildEditorConfig.editorconfig
+E:\desktop2\dotnetproject\SMSsender\obj\Debug\net8.0\SMSsender.AssemblyInfoInputs.cache
+E:\desktop2\dotnetproject\SMSsender\obj\Debug\net8.0\SMSsender.AssemblyInfo.cs
+E:\desktop2\dotnetproject\SMSsender\obj\Debug\net8.0\SMSsender.csproj.CoreCompileInputs.cache
+E:\desktop2\dotnetproject\SMSsender\obj\Debug\net8.0\SMSsender.MvcApplicationPartsAssemblyInfo.cache
+E:\desktop2\dotnetproject\SMSsender\obj\Debug\net8.0\SMSsender.RazorAssemblyInfo.cache
+E:\desktop2\dotnetproject\SMSsender\obj\Debug\net8.0\SMSsender.RazorAssemblyInfo.cs
+E:\desktop2\dotnetproject\SMSsender\obj\Debug\net8.0\staticwebassets.build.json
+E:\desktop2\dotnetproject\SMSsender\obj\Debug\net8.0\staticwebassets.development.json
+E:\desktop2\dotnetproject\SMSsender\obj\Debug\net8.0\staticwebassets\msbuild.SMSsender.Microsoft.AspNetCore.StaticWebAssets.props
+E:\desktop2\dotnetproject\SMSsender\obj\Debug\net8.0\staticwebassets\msbuild.build.SMSsender.props
+E:\desktop2\dotnetproject\SMSsender\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.SMSsender.props
+E:\desktop2\dotnetproject\SMSsender\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.SMSsender.props
+E:\desktop2\dotnetproject\SMSsender\obj\Debug\net8.0\staticwebassets.pack.json
+E:\desktop2\dotnetproject\SMSsender\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\desktop2\dotnetproject\SMSsender\obj\Debug\net8.0\scopedcss\bundle\SMSsender.styles.css
+E:\desktop2\dotnetproject\SMSsender\obj\Debug\net8.0\scopedcss\projectbundle\SMSsender.bundle.scp.css
+E:\desktop2\dotnetproject\SMSsender\obj\Debug\net8.0\SMSsender.csproj.Up2Date
+E:\desktop2\dotnetproject\SMSsender\obj\Debug\net8.0\SMSsender.dll
+E:\desktop2\dotnetproject\SMSsender\obj\Debug\net8.0\refint\SMSsender.dll
+E:\desktop2\dotnetproject\SMSsender\obj\Debug\net8.0\SMSsender.pdb
+E:\desktop2\dotnetproject\SMSsender\obj\Debug\net8.0\SMSsender.genruntimeconfig.cache
+E:\desktop2\dotnetproject\SMSsender\obj\Debug\net8.0\ref\SMSsender.dll
